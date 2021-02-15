@@ -41,13 +41,16 @@ version: 3.0.0
 
 # Navbar page list
 nav:
+  - title: 主页
+    url: /
+    
   - title: 博客
     url: /archive
 
-  - title: 关于我
+  - title: 关于
     url: /about
   
-  - title: Bilibili
+  - title: B站
     url: https://space.bilibili.com/1093503283
 
   - title: English

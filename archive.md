@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archive
+title: 博客归档
 ---
 
 # Archive

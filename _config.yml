@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Joe
+url: https://sugoijosephhan2627.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,17 +32,23 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: SugoiJosephHan2627
+  url: https://weibo.com/SugoiJosephHan2627
+  email: SugoiJosephHan2627@outlook.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: 博客
     url: /archive
 
-  - title: About
+  - title: 关于我
     url: /about
+  
+  - title: Bilibili
+    url: https://space.bilibili.com/1093503283
+
+  - title: English
+    url: /404.html

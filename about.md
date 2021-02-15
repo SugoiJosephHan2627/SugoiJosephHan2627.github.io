@@ -3,27 +3,13 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### 个人简介            
+名字：JOSEPH HAN （中文网名：哟瑟呼祁扣恰）                                                       
+年龄：出生于2006年                   
+性别：男                
+编程阅历：正在学习C语言（2020年初起）                       
+                  
+### 社交平台        
+微博：[@SugoiJosephHan2627](https://weibo.com/SugoiJosephHan2627)                           
+Bilibili；[@强大的哟瑟呼](https://space.bilibili.com/1093503283)                                                         
+Gitee：[@SugoiJosephHan](https://gitee.com/sugoijosephhan)                                               

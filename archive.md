@@ -3,7 +3,7 @@ layout: default
 title: 博客归档
 ---
 
-# Archive
+# 博客归档
 
 Browse all posts by month and year.
 

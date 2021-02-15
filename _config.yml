@@ -1,7 +1,7 @@
 # Setup
-title: Joe
+title: Joseph Han
 url: https://sugoijosephhan2627.github.io
-paginate: 1
+paginate: 2
 baseurl: ""
 permalink: pretty
 
@@ -50,8 +50,8 @@ nav:
   - title: 关于
     url: /about
   
-  - title: B站
-    url: https://space.bilibili.com/1093503283
+  - title: 微博
+    url: https://weibo.com/SugoiJosephHan2627
 
   - title: English
     url: /404.html

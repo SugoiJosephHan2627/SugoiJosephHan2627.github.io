@@ -5,7 +5,7 @@ title: 博客归档
 
 # 博客归档
 
-Browse all posts by month and year.
+在这里会显示我所有的博客，并将它们按时间顺序排列。最新的内容会在最上面。
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}

@@ -41,15 +41,18 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: 主页
+  - title: Home
     url: /
     
-  - title: 博客
+  - title: Blog
     url: /archive
 
-  - title: 关于
+  - title: About
     url: /about
+  
+  - title: Weibo
+    url: https://weibo.com/SugoiJosephHan2627
 
-  - title: English
-    url: https://SugoiJosephHan2627.github.io/languages/en/intl
+  - title: GiteePages
+    url: https://SugoiJosephHan2627.github.io/404
 

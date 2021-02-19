@@ -7,6 +7,8 @@ title: About
 Name：JOSEPH HAN                                                                
 Birthday：Born in 2006                                
 Gender：Male                
+Nationality: People's Republic of China
+Current Residence: Shanghai, People's Republic of China
 Programming Experience：Start learning C language in early 2020                       
                   
 ### Social Apps (China's)       

@@ -45,10 +45,10 @@ nav:
     url: /
     
   - title: Blog
-    url: /archive
+    url: /
 
   - title: About
     url: /about
   
   - title: Weibo
-    url: https://weibo.com/SugoiJosephHan2627
+    url: /

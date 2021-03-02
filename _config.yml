@@ -45,10 +45,10 @@ nav:
     url: /
     
   - title: Blog
-    url: /
+    url: /archive
 
   - title: About
     url: /about
   
-  - title: Weibo
-    url: /
+  - title: GiteePages
+    url: https://sugoijosephhan.gitee.io/blog

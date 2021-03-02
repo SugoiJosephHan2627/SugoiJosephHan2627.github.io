@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collect My Website Please
+title: Please Collect The Links Below
 ---
 
 [sugoijosephhan.gitee.io/blog/about](https://sugoijosephhan.gitee.io/blog/about/)
